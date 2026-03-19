@@ -1,0 +1,13 @@
+## 8️⃣ Limitations
+```markdown
+## Limitations
+- Model is trained on a **small dataset (Flickr8k)**, so performance on unseen or rare objects may be limited
+- Some captions may be incorrect due to dataset bias (e.g., uncommon animals like bears)
+## Future Improvements
+- Train on **larger datasets** like MS COCO for better generalization
+- Use **Transformer-based architectures** (e.g., Vision Transformer + GPT) for improved captions
+- Add **confidence scores** and multi-caption generation
+- Deploy online for public access using Streamlit Sharing or HuggingFace Spaces
+## References
+- Flickr8k Dataset: https://www.kaggle.com/datasets/adityajn105/flickr8k
+- Image Captioning using CNN + LSTM: https://www.tensorflow.org/tutorials/text/image_captioning
