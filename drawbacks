@@ -1,4 +1,4 @@
-## 8️⃣ Limitations
+## Limitations
 ```markdown
 ## Limitations
 - Model is trained on a **small dataset (Flickr8k)**, so performance on unseen or rare objects may be limited
